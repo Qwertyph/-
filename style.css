@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    font-size: 20px;
+    margin: 20px;
+    color: royalblue;
+}
+
+a:hover {
+    color: darkorange;
+    background-color: lightblue;
+}
+
+selector {
+    background-color: palegreen;
+    color: navy;
+}
+
+selector {
+    color: gray;
+}
+
+header {
+    height: 100px;
+    background-color: aqua;
+    margin: 0px;
+}
+
+main {
+    background-color: chartreuse;
+    margin: 0px;
+    padding: 100px;
+}
+
+footer {
+    background-color: red;
+    height: 100px;
+}
+
+main a {
+
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: rgb(67, 67, 180);
+}
